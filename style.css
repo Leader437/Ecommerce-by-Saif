@@ -388,6 +388,12 @@ nav {
   background-position: 60% 50%;
 }
 
+@media only screen and (min-width:330px) {
+  #home-header {
+    background-position: 55% 50%;
+  }
+}
+
 .header {
   display: flex;
   flex-direction: column;
